@@ -19,4 +19,3 @@ class nyzItem(scrapy.Item):
 	
 	# priorPrice	= scrapy.Field()
 	# priorDate		= scrapy.Field()
-
