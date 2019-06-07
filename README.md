@@ -3,7 +3,8 @@
 
 ## A Brief Look at NYC Real Estate - A Python Web Scraping Project
 
-_**This is a web scraping project that focused on completed residential real estate sales (over 13,000) in New York City, as listed on the Trulia website (from May 2018 - January 2019). The website was scraped using a Python Scrapy library. A brief blog post on the project can be found [here](https://nycdatascience.com/blog/student-works/web-scraping/nyc-real-estate/)**_
+_**This is a web scraping project that focused on completed residential real estate sales (over 13,000) in New York City, as listed on the Trulia website (from May 2018 - January 2019). The website was scraped using a Python Scrapy library.**_ 
+ - _**A brief blog post on the project can be found [here](https://nycdatascience.com/blog/student-works/web-scraping/nyc-real-estate/)**_
 
 The file structure in this repository is the same as that of an initialized scrapy project. However, I have two spiders in this project.
 
@@ -23,3 +24,7 @@ There are two Jupyter Notebooks:
 There is also a:
 - comma.py file holding a custom pyhton function used to convert integer/ float values to comma separated strings. 
 - WEB SCRAPING.pdf file with the presentation slides used to present this project
+
+- - -
+
+**Thank you very much for viewing my code!**
